@@ -1,0 +1,3 @@
+- I feel very confident in arrays so far.
+- I need to read more / practice the different array methods to make sure at leastthe commonly used ones are memorized.
+- Do you every use arrays with different data types in real life?
